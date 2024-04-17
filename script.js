@@ -5,7 +5,7 @@ fruits[1] = "Mango";
 fruits.pop()
 fruits.push("Watermelon")
 console.log(fruits) */
-/* var tonmoy = 40;
+/* var tonmoy = 59;
 var tom = 66;
 var jen = 95;
 var peter = 40;
@@ -23,8 +23,8 @@ else if(40 <= tonmoy){
 }
 else if(39 >= tonmoy){
     console.log("you are feltu")
-}
- */
+} */
+
 // Define the numbers
 // var num1 = 13;
 // var num2 = 79;
