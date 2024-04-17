@@ -26,17 +26,18 @@ else if(39 >= tonmoy){
 }
  */
 // Define the numbers
-var num1 = 13;
-var num2 = 79;
-var num3 = 45;
+// var num1 = 13;
+// var num2 = 79;
+// var num3 = 45;
 
-// Compare the numbers to find the largest
-if (num1 >= num2 && num1 >= num3) {
-    console.log("The largest number is: ");
-} 
-else if (num2 >= num1 && num2 >= num3) {
-    console.log("The largest number is: ");
-} 
-else {
-    console.log("The largest number is: ");
-}
+// // Compare the numbers to find the largest
+// if (num1 >= num2 && num1 >= num3) {
+//     console.log("The largest number is: ");
+// } 
+// else if (num2 >= num1 && num2 >= num3) {
+//     console.log("The largest number is: ");
+// } 
+// else {
+//     console.log("The largest number is: ");
+// }
+
